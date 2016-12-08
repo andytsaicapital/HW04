@@ -1,12 +1,11 @@
-
-.rect{
-border: 50px solid lightgreen ;
-width: 0px;
-height: 0px;
-border-top: 50px solid green;
-border-right: 50px solid red;
-border-bottom: 50px solid blue;
-border-left: 50px solid yellow
+.rect {
+    border: 50px solid lightgreen;
+    width: 0px;
+    height: 0px;
+    border-top: 50px solid green;
+    border-right: 50px solid red;
+    border-bottom: 50px solid blue;
+    border-left: 50px solid yellow
 }
 
 .top {
@@ -18,7 +17,7 @@ border-left: 50px solid yellow
     border-bottom-style: dotted;
     margin-left: 100px;
     margin-top: 100px;
-}   
+}
 
 .bottom {
     background-color: lightgreen;
@@ -26,11 +25,5 @@ border-left: 50px solid yellow
     height: 300px;
     margin-left: 125px;
     border: 6px solid green;
-    border-top: 0 px;
+    border-top-style: none;
 }
-
-
-
-
-
-
